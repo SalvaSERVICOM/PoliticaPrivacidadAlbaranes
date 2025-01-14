@@ -6,7 +6,7 @@ Uso de la Información La información ingresada se utiliza exclusivamente para 
 
 Permisos de la Aplicación, Nuestra aplicación solicita los siguientes permisos:
 
-Acceso a Internet: Para enviar las imagenes. Acceso a Cámara: Se usa el document escaner "mlkit.document.scanner" de google. Lectura y Escritura en Almacenamiento Externo: Para almacenar y acceder a imágenes realizadas en la app. 
+Acceso a Internet: Para enviar las imagenes. Acceso a Cámara: Se usa el document escaner "mlkit.document.scanner" de google: Para el escaneo de documentos. Lectura y Escritura en Almacenamiento Externo: Para almacenar y acceder a imágenes realizadas en la app. Notificaciones: Para avisar a los usuarios del progreso de subida de las imagenes.
 
 Almacenamiento y Eliminación de Datos Los datos de los formularios y las imágenes se almacenan en servidores dentro de la Unión Europea (España). Estos datos se eliminarán automáticamente cada 2 semanas para asegurar que no se conserven datos innecesarios.
 
